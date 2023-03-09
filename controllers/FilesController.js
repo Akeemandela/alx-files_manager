@@ -203,7 +203,6 @@ class FilesController {
   }
 
   /**
-   * @method getIndex
    * @description retrieve files based on parentid and pagination
    * @param {Object} req - Express request object
    * @param {Object} res - Express response object
